@@ -5,6 +5,6 @@ the html file : MTTQ
 
 CSS FILE : mttq css
 
-another css file : normalize
+another css file : normalize and fontawesome 
 
 jscript file : JQ
